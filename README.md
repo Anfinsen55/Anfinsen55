@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-614e3f2/devtechnosys.com/insights/wp-content/uploads/2022/01/Python.gif)]
 <h1 align="center">Hi 👋, I'm Anfinsen Joseph</h1>
 <h3 align="center">An enthusiastic Indian developer of Artificial Intelligence and machine learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
