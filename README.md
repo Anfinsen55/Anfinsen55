@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anfinsen Joseph</h1>
-<h3 align="center">An enthusiastic Indian developer of Artificial Intelligence and machine learning</h3>
+<h3 align="center">An enthusiastic Indian based developer of Artificial Intelligence and machine learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anfinsen55&label=Profile%20views&color=0e75b6&style=flat" alt="anfinsen55" /> </p>
